@@ -1,7 +1,7 @@
 <div dir=rtl> 
 
 
-<h1>second-task</h1>
+<h1>second-day</h1>
 
 
 <p dir="rtl">
@@ -12,11 +12,14 @@
 - قم بعمل fork للـ repository
 - قم بعمل clone للـ repository
 - افتح ملف main.py
-- عرف new list واعجل اسمها "favorite_animals" واضف بداخلها اربعة عناصر من اختيارك مثال: 
+- عرف new list واعجل اسمها "favorite_animals" واضف بداخلها اربعة عناصر من اختيارك مثال:
+
+```
 1. dog
 2. cat
 3. monkey
 4. rabbit
+```
 - اطبع الـ favorite_animals list كاملة باستخدام print statement
 - اطبع ثاني عنصر من الـ list
 - باستخدام remove method امسح الـ monkey او ثالث عنصر من الـ list
