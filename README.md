@@ -2,7 +2,7 @@
 <div dir=rtl> 
 
 
-<h1>second-day</h1>
+<h1>Second-Day</h1>
 
 
 <p dir="rtl">
