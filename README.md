@@ -10,8 +10,8 @@
   
   
   
-- قم بعمل fork للـ repository
-- قم بعمل clone للـ repository
+- حمل الـ repository (هذا الفولدر)
+- افتح الملف في VS Code
 - افتح ملف main.py
 - قم بانشاء variable باسم my_name وقيمته تكون input من المستخدم
 - قم بانشاء variable باسم my_age وقيمته تكون input من المستخدم
